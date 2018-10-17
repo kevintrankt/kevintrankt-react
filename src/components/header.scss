@@ -1,0 +1,22 @@
+.header {
+  position: relative;
+  height: 5vh;
+  width: 100%;
+}
+
+.header-nav {
+  position: absolute;
+  right: 5vw;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+  text-transform: uppercase;
+}
+
+.particle-switch {
+  position: absolute;
+  left: 8vw;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
